@@ -1,0 +1,8 @@
+com\alsa\mapReduce\takeHdfsToHbase\WriteFruitMRFromTxtReducer.class
+com\alsa\api\HbaseApiTest.class
+com\alsa\mapReduce\takeHdfsToHbase\Txt2FruitRunner.class
+com\alsa\mapReduce\fruitDemo\Fruit2FruitMRRunner.class
+com\alsa\mapReduce\takeHdfsToHbase\ReadFruitFromHDFSMapper.class
+com\alsa\mapReduce\fruitDemo\ReadFruitMapper.class
+com\alsa\mapReduce\fruitDemo\WriteFruitMRReducer.class
+com\alsa\api\HBaseApi.class
