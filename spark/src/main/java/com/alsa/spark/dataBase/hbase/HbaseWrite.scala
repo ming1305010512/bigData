@@ -26,7 +26,7 @@ object HbaseWrite {
     //创建HbaseConf
     val conf = HBaseConfiguration.create()
     val jobConf = new JobConf(conf)
-    jobConf.setOutputFormat(classOf[TableOutputFormat[ImmutableBytesWritable]])
+//    jobConf.setOutputFormat(classOf[TableOutputFormat[ImmutableBytesWritable]])
     jobConf.set(TableOutputFormat.OUTPUT_TABLE,"fruit_spark")
 
     //构建Hbase表描述器
@@ -50,8 +50,7 @@ object HbaseWrite {
       (new ImmutableBytesWritable,put)
     }
 
-    //创建一个RDD
-    val initialRDD =
+
 
   }
 }

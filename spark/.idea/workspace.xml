@@ -6,7 +6,35 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af44aaa2-4dd4-409e-8e31-eaba49930452" name="Default Changelist" comment="" />
+    <list default="true" id="af44aaa2-4dd4-409e-8e31-eaba49930452" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kafka/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/java/com/alsa/exercise/controlStructureAndFunction/Five.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/src/main/java/com/alsa/exercise/controlStructureAndFunction/Five.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/java/com/alsa/exercise/controlStructureAndFunction/Four.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/src/main/java/com/alsa/exercise/controlStructureAndFunction/Four.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/java/com/alsa/exercise/controlStructureAndFunction/One.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/src/main/java/com/alsa/exercise/controlStructureAndFunction/One.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/java/com/alsa/exercise/controlStructureAndFunction/Six.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/src/main/java/com/alsa/exercise/controlStructureAndFunction/Six.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/java/com/alsa/exercise/controlStructureAndFunction/Three.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/src/main/java/com/alsa/exercise/controlStructureAndFunction/Three.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/java/com/alsa/exercise/controlStructureAndFunction/Two.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/src/main/java/com/alsa/exercise/controlStructureAndFunction/Two.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/java/com/alsa/scala/enumeration/TrafficLightColor.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/src/main/java/com/alsa/scala/enumeration/TrafficLightColor.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/java/com/alsa/scala/functionDef/FunctionDef.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/src/main/java/com/alsa/scala/functionDef/FunctionDef.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/java/com/alsa/scala/implicit_test/Delimiters.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/src/main/java/com/alsa/scala/implicit_test/Delimiters.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/java/com/alsa/scala/implicit_test/FrenchPunctuation.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/src/main/java/com/alsa/scala/implicit_test/FrenchPunctuation.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/java/com/alsa/scala/implicit_test/del.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/src/main/java/com/alsa/scala/implicit_test/del.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/java/com/alsa/scala/pianhanshu/PianHanDemo2.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/src/main/java/com/alsa/scala/pianhanshu/PianHanDemo2.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/java/com/alsa/scala/tuple/MultipleValue.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/src/main/java/com/alsa/scala/tuple/MultipleValue.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/target/classes/com/alsa/scala/pianhanshu/PianHanDemo2$$anonfun$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/target/classes/com/alsa/scala/pianhanshu/PianHanDemo2$$anonfun$main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/target/classes/com/alsa/scala/pianhanshu/PianHanDemo2$$anonfun$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/target/classes/com/alsa/scala/pianhanshu/PianHanDemo2$$anonfun$main$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/target/classes/com/alsa/scala/pianhanshu/PianHanDemo2$$anonfun$main$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/target/classes/com/alsa/scala/pianhanshu/PianHanDemo2$$anonfun$main$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/target/classes/com/alsa/scala/pianhanshu/PianHanDemo2$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/target/classes/com/alsa/scala/pianhanshu/PianHanDemo2$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/target/classes/com/alsa/scala/pianhanshu/PianHanDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/target/classes/com/alsa/scala/pianhanshu/PianHanDemo2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/alsa/spark/dataBase/hbase/HbaseWrite.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alsa/spark/dataBase/hbase/HbaseWrite.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/alsa/spark/sparkCore/RddTransfomation/keyValueType/KeyValueType.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alsa/spark/sparkCore/RddTransfomation/keyValueType/KeyValueType.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/alsa/spark/sparkCore/RddTransfomation/valueType/ValueType.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alsa/spark/sparkCore/RddTransfomation/valueType/ValueType.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/spark.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/alsa/spark/dataBase/mysql/MysqlRDD$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/alsa/spark/dataBase/mysql/MysqlRDD$.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,31 +63,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/alsa/spark/demo1/WordCount.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="32" column="49" selection-start-line="32" selection-start-column="49" selection-end-line="32" selection-end-column="49" />
+            <state relative-caret-position="437">
+              <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/alsa/spark/dataBase/hbase/HBaseSpark.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="40" column="66" lean-forward="true" selection-start-line="40" selection-start-column="66" selection-end-line="40" selection-end-column="66" />
-              <folding>
-                <element signature="e#39#82#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/alsa/spark/dataBase/hbase/HbaseWrite.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="53" column="20" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
+            <state relative-caret-position="437">
+              <caret line="29" column="61" selection-start-line="29" selection-start-column="61" selection-end-line="29" selection-end-column="61" />
               <folding>
                 <element signature="e#39#94#0" expanded="true" />
               </folding>
@@ -68,48 +84,9 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/alsa/spark/dataBase/mysql/MysqlRDD.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
-              <folding>
-                <element signature="e#39#68#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/alsa/spark/dataBase/mysql/MysqlWrite.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
-              <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/alsa/spark/grammar/partition/PartitionTest.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/alsa/spark/grammar/partition/CustomerPartitioner.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/alsa/spark/grammar/partition/CustomerPartitionerTest.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
+            <state relative-caret-position="418">
               <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
             </state>
           </provider>
@@ -118,8 +95,62 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/alsa/spark/sparkCore/advertisingClickCount/Practice.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="37" column="13" selection-start-line="36" selection-start-column="4" selection-end-line="37" selection-end-column="13" />
+            <state relative-caret-position="513">
+              <caret line="27" column="54" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/alsa/spark/sparkCore/advertisingClickCount/agent.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/alsa/spark/sparkCore/RddTransfomation/valueType/ValueType.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/software/mavenres/.m2/repository/org/apache/spark/spark-core_2.11/2.1.1/spark-core_2.11-2.1.1.jar!/org/apache/spark/rdd/RDD.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1140">
+              <caret line="60" column="90" selection-start-line="60" selection-start-column="90" selection-end-line="60" selection-end-column="90" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/alsa/spark/sparkCore/RddTransfomation/keyValueType/KeyValueType.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/software/mavenres/.m2/repository/org/apache/spark/spark-core_2.11/2.1.1/spark-core_2.11-2.1.1.jar!/org/apache/spark/rdd/PairRDDFunctions.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="89" selection-start-line="10" selection-start-column="89" selection-end-line="10" selection-end-column="89" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/work/soft_tool/scala-2.11.12/scala-2.11.12/lib/scala-library.jar!/scala/collection/TraversableProxyLike.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="589">
+              <caret line="31" column="15" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -133,16 +164,22 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>sum</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/alsa/spark/demo1/WordCount.scala" />
         <option value="$PROJECT_DIR$/src/main/java/com/alsa/spark/demo1/grammar/map/MapTest.scala" />
         <option value="$PROJECT_DIR$/src/main/java/com/alsa/spark/grammar/map/MapTest.scala" />
         <option value="$PROJECT_DIR$/src/main/java/com/alsa/spark/demo1/Pratice.scala" />
         <option value="$PROJECT_DIR$/src/main/java/com/alsa/spark/demo1/Practice.scala" />
         <option value="$PROJECT_DIR$/src/main/java/com/alsa/spark/sparkCore/advertisingClickCount/agent.log" />
-        <option value="$PROJECT_DIR$/src/main/java/com/alsa/spark/sparkCore/advertisingClickCount/Practice.scala" />
         <option value="$PROJECT_DIR$/src/main/java/com/alsa/spark/grammar/partition/PartitionTest.scala" />
         <option value="$PROJECT_DIR$/src/main/java/com/alsa/spark/grammar/partition/CustomerPartitioner.scala" />
         <option value="$PROJECT_DIR$/src/main/java/com/alsa/spark/grammar/partition/CustomerPartitionerTest.scala" />
@@ -150,7 +187,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/alsa/spark/dataBase/mysql/MysqlRDD.scala" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/alsa/spark/dataBase/hbase/HBaseSpark.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/com/alsa/spark/demo1/WordCount.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/com/alsa/spark/sparkCore/advertisingClickCount/Practice.scala" />
         <option value="$PROJECT_DIR$/src/main/java/com/alsa/spark/dataBase/hbase/HbaseWrite.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/com/alsa/spark/sparkCore/RddTransfomation/valueType/ValueType.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/com/alsa/spark/sparkCore/RddTransfomation/keyValueType/KeyValueType.scala" />
       </list>
     </option>
   </component>
@@ -184,148 +225,25 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-15" />
-    <option name="y" value="3" />
     <option name="width" value="3867" />
-    <option name="height" value="2082" />
+    <option name="height" value="2085" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="spark" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spark" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spark" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spark" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spark" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spark" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="alsa" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spark" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="alsa" type="462c0819:PsiDirectoryNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spark" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="alsa" type="462c0819:PsiDirectoryNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="dataBase" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spark" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="alsa" type="462c0819:PsiDirectoryNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="dataBase" type="462c0819:PsiDirectoryNode" />
-              <item name="hbase" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spark" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="alsa" type="462c0819:PsiDirectoryNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="dataBase" type="462c0819:PsiDirectoryNode" />
-              <item name="mysql" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spark" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="alsa" type="462c0819:PsiDirectoryNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="demo1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spark" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="alsa" type="462c0819:PsiDirectoryNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="grammar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spark" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="alsa" type="462c0819:PsiDirectoryNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="grammar" type="462c0819:PsiDirectoryNode" />
-              <item name="partition" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hbase" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -351,7 +269,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MysqlRDD">
+  <component name="RunManager" selected="Application.keyValueType">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -414,22 +332,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.alsa.spark.sparkCore.advertisingClickCount.Practice" />
-      <module name="spark" />
+    <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.alsa.spark.sparkCore.advertisingClickCount.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
+    <configuration name="keyValueType" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.alsa.spark.sparkCore.RddTransfomation.keyValueType.keyValueType" />
+      <module name="spark" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alsa.spark.sparkCore.RddTransfomation.keyValueType.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -461,11 +379,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.keyValueType" />
         <item itemvalue="Application.MysqlRDD" />
         <item itemvalue="Application.MysqlWrite" />
         <item itemvalue="Application.CustomerPartitionerTest" />
         <item itemvalue="Application.PartitionTest" />
-        <item itemvalue="Application.Practice" />
       </list>
     </recent_temporary>
   </component>
@@ -485,17 +403,21 @@
       <workItem from="1579394151840" duration="9483000" />
       <workItem from="1579480310446" duration="637000" />
       <workItem from="1579573578928" duration="11084000" />
+      <workItem from="1584616520458" duration="958000" />
+      <workItem from="1584773510622" duration="1905000" />
+      <workItem from="1584943563194" duration="13689000" />
+      <workItem from="1585218958943" duration="42000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30724000" />
+    <option name="totallyTimeSpent" value="47318000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1292" height="702" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27750808" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29692557" />
       <window_info id="Structure" order="1" side_tool="true" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -510,10 +432,10 @@
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Java Enterprise" order="6" />
       <window_info anchor="bottom" id="MyBatis Sql Log" order="7" />
-      <window_info anchor="bottom" id="Run" order="8" weight="0.3090909" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.06375228" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.45090908" />
       <window_info anchor="bottom" id="JProfiler" order="10" />
-      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32969034" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Ant Build" order="1" />
       <window_info anchor="right" id="Theme Preview" order="2" />
@@ -555,13 +477,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/alsa/spark/sparkCore/advertisingClickCount/agent.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/alsa/spark/grammar/map/MapTest.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -569,51 +484,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/alsa/spark/demo1/WordCount.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alsa/spark/dataBase/hbase/HBaseSpark.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+        <state relative-caret-position="627">
+          <caret line="40" column="66" selection-start-line="40" selection-start-column="66" selection-end-line="40" selection-end-column="66" />
+          <folding>
+            <element signature="e#39#82#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/alsa/spark/sparkCore/advertisingClickCount/Practice.scala">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="37" column="13" selection-start-line="36" selection-start-column="4" selection-end-line="37" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/alsa/spark/grammar/partition/CustomerPartitioner.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/alsa/spark/grammar/partition/CustomerPartitionerTest.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/alsa/spark/grammar/partition/PartitionTest.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/alsa/spark/dataBase/mysql/MysqlWrite.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+        <state relative-caret-position="817">
+          <caret line="43" column="58" selection-start-line="43" selection-start-column="58" selection-end-line="43" selection-end-column="58" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/alsa/spark/dataBase/mysql/MysqlRDD.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
+        <state relative-caret-position="418">
           <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
           <folding>
             <element signature="e#39#68#0" expanded="true" />
@@ -621,30 +511,104 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alsa/spark/dataBase/mysql/MysqlWrite.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="32" column="49" selection-start-line="32" selection-start-column="49" selection-end-line="32" selection-end-column="49" />
+        <state relative-caret-position="361">
+          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/alsa/spark/dataBase/hbase/HBaseSpark.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alsa/spark/grammar/partition/PartitionTest.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="40" column="66" lean-forward="true" selection-start-line="40" selection-start-column="66" selection-end-line="40" selection-end-column="66" />
-          <folding>
-            <element signature="e#39#82#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="323">
+          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alsa/spark/grammar/partition/CustomerPartitioner.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/work/soft_tool/scala-2.11.12/scala-2.11.12/lib/scala-library.jar!/scala/collection/TraversableOnce.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="28" column="72" lean-forward="true" selection-start-line="28" selection-start-column="72" selection-end-line="28" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alsa/spark/demo1/WordCount.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/alsa/spark/dataBase/hbase/HbaseWrite.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="53" column="20" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
+        <state relative-caret-position="437">
+          <caret line="29" column="61" selection-start-line="29" selection-start-column="61" selection-end-line="29" selection-end-column="61" />
           <folding>
             <element signature="e#39#94#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alsa/spark/grammar/partition/CustomerPartitionerTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alsa/spark/sparkCore/advertisingClickCount/Practice.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="54" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alsa/spark/sparkCore/advertisingClickCount/agent.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alsa/spark/sparkCore/RddTransfomation/valueType/ValueType.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/software/mavenres/.m2/repository/org/apache/spark/spark-core_2.11/2.1.1/spark-core_2.11-2.1.1.jar!/org/apache/spark/rdd/RDD.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="60" column="90" selection-start-line="60" selection-start-column="90" selection-end-line="60" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/software/mavenres/.m2/repository/org/apache/spark/spark-core_2.11/2.1.1/spark-core_2.11-2.1.1.jar!/org/apache/spark/rdd/PairRDDFunctions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="89" selection-start-line="10" selection-start-column="89" selection-end-line="10" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/work/soft_tool/scala-2.11.12/scala-2.11.12/lib/scala-library.jar!/scala/collection/TraversableProxyLike.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="31" column="15" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alsa/spark/sparkCore/RddTransfomation/keyValueType/KeyValueType.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
         </state>
       </provider>
     </entry>
