@@ -19,7 +19,7 @@ import java.io.IOException;
 public class FlowSumDriver {
     public static void main(String[] args) throws IOException, ClassNotFoundException, InterruptedException {
         //设置输入输出路径
-        args = new String[]{"D:\\learn\\project\\bigData\\bigData\\hadoop\\file\\shuffle\\serialize\\input","file/serialize/output"};
+        args = new String[]{"file/shuffle/serialize/input","file/serialize/output"};
 
         Configuration configuration = new Configuration();
         Job job = Job.getInstance(configuration);
