@@ -17,7 +17,7 @@ import java.io.IOException;
  * @author:longming
  * @Date: 2021/4/23
  * @Time: 14:39
- * @Description:
+ * @Description: 将多个文件合并成一个文件
  */
 public class SequenceFileDriver {
 
